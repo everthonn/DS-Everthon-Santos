@@ -1,0 +1,427 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "aaaa",
+            "request": "launch",
+            "mainClass": "POO.aaaa",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "CarTest",
+            "request": "launch",
+            "mainClass": "POO.CarTest",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "aaaa",
+            "request": "launch",
+            "mainClass": "testePOO.aaaa",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "EX1",
+            "request": "launch",
+            "mainClass": "EX1",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX10",
+            "request": "launch",
+            "mainClass": "EX10",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX11",
+            "request": "launch",
+            "mainClass": "EX11",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX12",
+            "request": "launch",
+            "mainClass": "EX12",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX13",
+            "request": "launch",
+            "mainClass": "EX13",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX14",
+            "request": "launch",
+            "mainClass": "EX14",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX15",
+            "request": "launch",
+            "mainClass": "EX15",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX17",
+            "request": "launch",
+            "mainClass": "EX17",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX18",
+            "request": "launch",
+            "mainClass": "EX18",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX19",
+            "request": "launch",
+            "mainClass": "EX19",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX2",
+            "request": "launch",
+            "mainClass": "EX2",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX3",
+            "request": "launch",
+            "mainClass": "EX3",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX4",
+            "request": "launch",
+            "mainClass": "EX4",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX5",
+            "request": "launch",
+            "mainClass": "EX5",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX6",
+            "request": "launch",
+            "mainClass": "EX6",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX7",
+            "request": "launch",
+            "mainClass": "EX7",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX8",
+            "request": "launch",
+            "mainClass": "EX8",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "EX9",
+            "request": "launch",
+            "mainClass": "EX9",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Ex1",
+            "request": "launch",
+            "mainClass": "Ex1",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Ex4",
+            "request": "launch",
+            "mainClass": "Ex4",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Ex5",
+            "request": "launch",
+            "mainClass": "Ex5",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Ex6",
+            "request": "launch",
+            "mainClass": "Ex6",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Ex7",
+            "request": "launch",
+            "mainClass": "Ex7",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Ex8",
+            "request": "launch",
+            "mainClass": "Ex8",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio_20",
+            "request": "launch",
+            "mainClass": "Exercicios_variaveis.Exercicio_20",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_11",
+            "request": "launch",
+            "mainClass": "Exercicios_variaveis.Exercício_11",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_12",
+            "request": "launch",
+            "mainClass": "Exercicios_variaveis.Exercício_12",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_14",
+            "request": "launch",
+            "mainClass": "Exercicios_variaveis.Exercício_14",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_15",
+            "request": "launch",
+            "mainClass": "Exercicios_variaveis.Exercício_15",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_17",
+            "request": "launch",
+            "mainClass": "Exercicios_variaveis.Exercício_17",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_18",
+            "request": "launch",
+            "mainClass": "Exercicios_variaveis.Exercício_18",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_19",
+            "request": "launch",
+            "mainClass": "Exercicios_variaveis.Exercício_19",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_7",
+            "request": "launch",
+            "mainClass": "Exercicios_variaveis.Exercício_7",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "ex5",
+            "request": "launch",
+            "mainClass": "Exercicios_variaveis.ex5",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Hellow_World",
+            "request": "launch",
+            "mainClass": "Hellow_World",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Aula03",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Aula03",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio1",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio10",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio10",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio11",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio11",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio12",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio12",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio13",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio13",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio14",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio14",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio15",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio15",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio16",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio16",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio17",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio17",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio18",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio18",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio19",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio19",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio5Loop",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio5Loop",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio7",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio7",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio8",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio8",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio9",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.Exercicio9",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "teste_While",
+            "request": "launch",
+            "mainClass": "Lacos_repeticao.src.aula.pkg03.teste_While",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "exercicio",
+            "request": "launch",
+            "mainClass": "POO.exercicio",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "Teste_Matriz",
+            "request": "launch",
+            "mainClass": "Teste_Matriz",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        },
+        {
+            "type": "java",
+            "name": "testemult",
+            "request": "launch",
+            "mainClass": "testemult",
+            "projectName": "DS-Everthon-Santos_bb76cfbc"
+        }
+    ]
+}

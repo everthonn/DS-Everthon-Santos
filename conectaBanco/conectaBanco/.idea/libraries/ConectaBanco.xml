@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ConectaBanco">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ConectaBanco.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
